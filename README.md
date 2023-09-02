@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on spoof attack detection and plant disease classification using deep learning.
+🔭 I’m currently working on generative models.
 
 <!--
 **ncahyadi/ncahyadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
